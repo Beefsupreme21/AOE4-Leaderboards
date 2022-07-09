@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.leaderboard-title {
+    margin: 20px; 
+}
+
+
+
+body {
+    background-color: #181c29;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+
+table {
+    margin: auto;
+    width: 80%;
+    color: white;
+    font-weight: 900;
+}
+
+td {
+    padding: 7px;
+    font-size: 1.2em;
+}
+
+
+.filter {
+    font-size: 1.2em;
+    text-decoration: underline;
+    color: #FFDF91;
+}
+
+.name {
+    color: #53dbdd;
+}
+
+.wins {
+    color: #578b5f;
+}
+
+.losses {
+    color: #FD8962;
+}
+
+.dark {
+    background-color: #1E2536;
+}
+
+.light {
+    background-color: #11141d;
+}
+
+#img-area {
+background-color: darkgoldenrod;
+}
+
+img {
+    padding: 5px 0px;
+}
